@@ -88,7 +88,7 @@ Literature_Review
 
 ```bash
 git clone https://github.com/your-username/literature-review-assistant.git
-cd literature-review-assistant
+
 ```
 
 ### 2️⃣ Create virtual environment
